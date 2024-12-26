@@ -1,3 +1,5 @@
+> [!IMPORTANT]  
+> Actualmente la herramienta se encuentra deprecada ya que actualizaron la página web y ya no está de donde extraía la información (**/api/machines**)
 # [DockerlabSearch](https://dockerlabs.es)
 
 Herramienta en **bash** para hacer búsquedas sobre la página de [dockerlabs](https://dockerlabs.es), consta de las siguientes opciones:<br>
